@@ -1,7 +1,8 @@
 ### Hi there. I'm David Silva👋
 ## Software Engineering
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilva32&show_icons=true&theme=radical)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidSilva32&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidSilva32&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Technologies i use in my daily life
 
@@ -21,4 +22,4 @@
 ### I'm passionate about tecnologies. I've been studying web development since 2022. I'm currently a software engineering student. I am open to a job opportunity
 
 ### Contacts
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-teixeira-devloper-designer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-teixeira-devloper-designer/)
