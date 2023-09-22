@@ -23,3 +23,4 @@
 
 ### Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/david-teixeira-devloper-designer/)
+[![Mail](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=mail&logoColor=0E76A8)](mailto:david.silvaxd32@gmail.com)
